@@ -1,6 +1,6 @@
-token=
-owner=
-prefix=
-game=
+token=NTMyOTg4Njk3MjM5NDg2NDY0.DxkgNg.i0govcJT0T7X-SxfJZcz8uFUbCw
+owner=507997411101114379
+prefix=4
+game=Cold|4play 
 stayinchannel=true
 songinstatus=false
